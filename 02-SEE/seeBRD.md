@@ -1,6 +1,8 @@
-### This is the **_BRD_** for **_Setia Electricals & Electronics_** project delivery which is discussed between me and Visivo at **_Venture X_** on 08-07-2026.
+### This is the **_BRD_** for **_Setia Electricals & Electronics_** project delivery which is discussed between Purushottam and Visivo
 
-> Inside this project we have to develop a company **_product showcase portfolio website_** using below stack.
+> Inside this project we have to develop and deploy a company **_product showcase portfolio website_** using below stack.
+
+ Click to see the [UI Design Reference](https://www.indoasian.com/) by Visivo.
 
 ```text
 Teck Stack :
@@ -9,54 +11,34 @@ Teck Stack :
     3. Tailwind CSS
     4. Shad CN Components
 ```
+## Deliverable
+```text
+    - Three Pages (Home, About, Contact)
+    - Navbar & Footer
+    - Active contact form with email communication
+```
+## What pages and sections should contain
 
-# What pages and sections should contain
+### 1. Home Page [Landing Page]
 
-## 1. Home Page [Landing Page]
-
-### HeroSection
+HeroSection
 - Background Image
-- Content displayed(title and text)
-- Buttons(color, style)
-- Below stripe display
+- CTA Contents(title and text)
+- CTA buttons(color, style)
 
-### Displaying marquee section
-- Content
-
-### ServicesSection
+Product Section
 - Background 
 - Content
-- Cards 
+- Product cards 
 
-### Material Section
+Service Section
 - Background
-- content
-- material card
+- Service content
 
-### Why choose us
-- Background
-- content
-- material card
-
-### Network Section
-- Background
-- content
-- network map
-
-### Industries Section
-- Background
-- Content 
-- Cards
-
-### CTA Section
+CTA Section
 - Background colour gradient
 - Content
 - Buttons
 - Cards
-
-### Blog Section
-- Background
-- content
-- Blogs card
 
 ---
